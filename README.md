@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=500&color=00FF41&center=true&vCenter=true&width=1000&height=80&lines=%3E_%+INITIALIZING+DECENTRALIZED+PROTOCOL...;%3E_+ACCESSING+LEDGER+NODE+%E2%9C%93;%3E_+AYUSH+SHARMA+%7C+@Ayush;%3E_+BLOCKCHAIN+DEVELOPER+%F0%9F%9B%A0%EF%B8%8F;%3E_+AI%2FML+RESEARCH+UNIT+%F0%9F%A4%96;%3E_+ARCH+LINUX+OPERATIVE+%F0%9F%90%A7;%3E_+BUILDING+THE+OPEN+WEB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=500&color=00FF41&center=true&vCenter=true&width=1000&height=80&lines=%3E_%+INITIALIZING+DECENTRALIZED+PROTOCOL...;%3E_+ACCESSING+LEDGER+NODE+%E2%9C%93;%3E_+ADITYA+ROUTH+%7C+@ADITYA;%3E_+BLOCKCHAIN+DEVELOPER+%F0%9F%9B%A0%EF%B8%8F;%3E_+AI%2FML+RESEARCH+UNIT+%F0%9F%A4%96;%3E_+ARCH+LINUX+OPERATIVE+%F0%9F%90%A7;%3E_+BUILDING+THE+OPEN+WEB" alt="Typing SVG" />
 </div>
 
 <br>
@@ -29,8 +29,8 @@
 
 ```yaml
 ╔═══════════════════════════════════════════╗
-║  OPERATIVE ID: AyushSharma113                ║
-║  NAME: Ayush Sharma                       ║
+║  OPERATIVE ID: ADITYA-ROUTH                ║
+║  NAME: ADITYA ROUTH                       ║
 ║  BASE: Kolkata, West Bengal               ║
 ║  HQ: GCELT                                ║
 ║  DIVISION: Agentic Ai Devlopment          ║
@@ -58,7 +58,7 @@
 ### `💻 SOURCE CODE IDENTITY`
 
 ```python
-class AyushSharma:
+class ADITYAROUTH:
     def __init__(self):
         self.role = "Agentic Ai Developer"
         self.passion = ["Web", "AI", "Open Source"]
@@ -71,7 +71,7 @@ class AyushSharma:
             self.deploy("Testnet")
 
 # Initializing...
-agent = AyushSharma()
+agent = ADITYAROUTH()
 agent.execute_mission()
 ```
 
@@ -139,7 +139,7 @@ agent.execute_mission()
 
 ### `📨 DIRECT MESSAGE PROTOCOL`
 
-[![Email](https://img.shields.io/badge/Email-sharmaayushkumar15@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:sharmaayushkumar15@gmail.com)
+[![Email](https://img.shields.io/badge/Email-ROUTHADITYAkumar15@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:ROUTHADITYAkumar15@gmail.com)
 
 </div>
 
