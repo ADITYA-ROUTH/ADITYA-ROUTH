@@ -139,7 +139,7 @@ agent.execute_mission()
 
 ### `📨 DIRECT MESSAGE PROTOCOL`
 
-[![Email](https://img.shields.io/badge/Email-premrouth00@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:ROUTHADITYAkumar15@gmail.com)
+[![Email](https://img.shields.io/badge/Email-premrouth00@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:premrouth00@gmail.com)
 
 </div>
 
